@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ruan+Pontes;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RuanPontes&bg_color=0d1117&color=0000CD&line=0000CD&point=D3D3D3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
