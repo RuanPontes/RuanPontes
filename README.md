@@ -22,7 +22,7 @@
 Estas são algumas das tecnologias que domino, ou estou aprendendo!
 
 
-
+# Spotify
 &nbsp;<div >
   [![Spotify](https://novatorem-oaozerxiw-ruanpontes.vercel.app/api/spotify?background_color=white&border_color=purple)](https://open.spotify.com/user/31nuz6o4ft77huauocigxsqoc2su)
 </div>
