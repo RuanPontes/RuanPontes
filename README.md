@@ -7,7 +7,7 @@
 [![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 
 
-## Tecnlogias que tenho experiencia.
+## Tecnlogias que tenho experiência.
 [![Angular](https://img.shields.io/badge/Angular-FF5733?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
