@@ -19,12 +19,6 @@
 
 # Tecnlogias
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-LdYaACZaKgGJGgUf1HT9I3dGz10wP6fA2mwvNMuKGbgQlQVlSkpv0b5AfIDoz/ntXkU0JWhwBZMC7T3LYBcGw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
-
-
-
-
 
 
 [![Angular](https://img.shields.io/badge/Angular-FF5733?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
@@ -36,14 +30,6 @@
 [![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
-
-
-
-
-Este é um projeto incrível que utiliza várias tecnologias modernas e poderosas. Sinta-se à vontade para explorar o código e contribuir com melhorias!
-
-
-
 
 
 Estas são algumas das tecnologias que domino, ou estou aprendendo!
