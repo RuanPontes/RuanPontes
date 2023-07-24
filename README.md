@@ -1,4 +1,7 @@
 # Olá, meu nome é Ruan Pontes!
+<p align="center">
+<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+</p>
 
 
 Aphelion | Perihelion 
