@@ -1,6 +1,6 @@
 # Olá, meu nome é Ruan Pontes!
 <p align="center">
-<img alt="loficity" width="700px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+<img alt="loficity" width="1200px" height="500px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p>
 
 
