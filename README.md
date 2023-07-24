@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-LdYaACZaKgGJGgUf1HT9I3dGz10wP6fA2mwvNMuKGbgQlQVlSkpv0b5AfIDoz/ntXkU0JWhwBZMC7T3LYBcGw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 
 
@@ -21,15 +22,18 @@
 
 
 
-[![Angular](https://img.shields.io/badge/Angular-FF5733?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
-[![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
+
+<i class="fab fa-angular"></i> [Angular](https://angular.io/)
+<i class="fab fa-js"></i> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<i class="fab fa-js-square"></i> [TypeScript](https://www.typescriptlang.org/)
+<i class="fab fa-html5"></i> [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+<i class="fab fa-css3-alt"></i> [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+<i class="fab fa-dotnet"></i> [.NET Core](https://dotnet.microsoft.com/)
+<i class="fab fa-spring"></i> [Spring Framework](https://spring.io/)
+<i class="fab fa-csharp"></i> [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+<i class="fab fa-java"></i> [Java](https://docs.oracle.com/en/java/)
+
+
 
 
 Estas são algumas das tecnologias que domino, ou estou aprendendo!
