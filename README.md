@@ -5,7 +5,7 @@
 
 
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=white&border_color=purple)](https://open.spotify.com/user/omnitenebris)
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=white&border_color=purple)](https://open.spotify.com/user/RuanPontes)
 </div>
 
 
