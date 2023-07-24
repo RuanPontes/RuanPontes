@@ -1,5 +1,8 @@
-{
-  "name": "guilyx/guilyx",
-  "version": 2,
-  "rewrites": [{ "source": "/(.*)", "destination": "/api/$1" }]
+ {
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://github.com/novatorem/novatorem"
+    }
+  ]
 }
