@@ -1,12 +1,22 @@
 # Olá, meu nome é Ruan Pontes!
 
 
+<p align="center">
+<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+</p>
+
+<p align="center">
+<br/>
+<a href="[https://www.linkedin.com/in/erwinlejeune-lkn](https://www.linkedin.com/in/jos%C3%A9-ruan-pontes-891a351b6/)">
+  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
 Aphelion | Perihelion 
 :-------------------------:|-------
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)<br>|<div style="text-align: justify">You should use the new version of the readme, [here](https://github.com/novatorem/novatorem)
 
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
-
+<br>
+</p>
 
 # Tecnlogias
 
