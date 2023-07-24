@@ -17,7 +17,7 @@
 </p>
 
 
-# Meu Projeto Incrível
+# Tecnlogias
 
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -29,7 +29,7 @@
 [![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
 
-Este é um projeto incrível que utiliza várias tecnologias modernas e poderosas. Sinta-se à vontade para explorar o código e contribuir com melhorias!
+Estas são algumas das tecnologias que domino, ou estou aprendendo!
 
 
 
