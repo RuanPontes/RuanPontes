@@ -23,15 +23,18 @@
 
 
 
-<i class="fab fa-angular"></i> [Angular](https://angular.io/)
-<i class="fab fa-js"></i> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-<i class="fab fa-js-square"></i> [TypeScript](https://www.typescriptlang.org/)
-<i class="fab fa-html5"></i> [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-<i class="fab fa-css3-alt"></i> [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
-<i class="fab fa-dotnet"></i> [.NET Core](https://dotnet.microsoft.com/)
-<i class="fab fa-spring"></i> [Spring Framework](https://spring.io/)
-<i class="fab fa-csharp"></i> [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
-<i class="fab fa-java"></i> [Java](https://docs.oracle.com/en/java/)
+
+
+[![Angular](https://img.shields.io/badge/Angular-v12-red?style=flat-square&logo=angular)](https://angular.io/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-v4.4-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
+[![HTML](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS](https://img.shields.io/badge/CSS3-blueviolet?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![.NET Core](https://img.shields.io/badge/.NET%20Core-5.0-blue?style=flat-square&logo=.net)](https://dotnet.microsoft.com/)
+[![Spring Framework](https://img.shields.io/badge/Spring-5.3-brightgreen?style=flat-square&logo=spring)](https://spring.io/)
+[![C#](https://img.shields.io/badge/C%23-9.0-purple?style=flat-square&logo=c-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Java](https://img.shields.io/badge/Java-17-orange?style=flat-square&logo=java)](https://docs.oracle.com/en/java/)
+
 
 
 
