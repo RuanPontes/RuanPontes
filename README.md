@@ -3,8 +3,7 @@
 <img alt="loficity" width="600px" height="300px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </div>
 
-# No momento estou estudando.
-[![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+
 
 
 ## Tecnlogias que tenho experiência.
@@ -18,7 +17,7 @@
 
 ## Tecnologias que tenho pouca experiência / meta de aprendizagem.
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-
+[![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 
 &nbsp;<div >
   [![Spotify](https://novatorem-oaozerxiw-ruanpontes.vercel.app/api/spotify?background_color=white&border_color=purple)](https://open.spotify.com/user/31nuz6o4ft77huauocigxsqoc2su)
